@@ -1,0 +1,72 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.favorite-buttons{
+background-color: yellow;
+font-size: 20px;
+}
+
+header{
+	font-size: 30px;
+	color: darkslategrey;
+}
+h1{
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	font-weight: 500;
+	font-style: italic;
+	background-color: rgb(210, 231, 219);
+}
+h3{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color:black;
+}
+h5{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color: darkslategrey;
+}
+p{
+	color:rgb(66, 66, 66);
+}
+p1{
+	color:black;
+	font-style: italic;
+}
+li{
+	color:darkslategrey;
+}
