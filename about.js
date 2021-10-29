@@ -10,7 +10,7 @@ function handleSubmit(event) {
 const image= document.querySelector('#image')
 
 const mouseOverEvent = (event) => {
-	event.alert = ('You are kind')
+	alert ('You are the coolest')
 }	
 image.addEventListener("mouseover", mouseOverEvent)
 
@@ -19,3 +19,5 @@ image.addEventListener("mouseover", mouseOverEvent)
 let form = document.querySelector('form#contact');
 
 form.addEventListener('submit', handleSubmit);
+
+
